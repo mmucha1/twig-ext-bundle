@@ -1,0 +1,20 @@
+{
+    "name": "mmucha1/twig-ext-bundle",
+    "type": "symfony-bundle",
+    "description": "Twig ...",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MM",
+            "email": "mmucha@ioki.com.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Mmucha1\\TwigExtBundle": "" }
+    },
+    "target-dir": "Mmucha1/TwigExtBundle"
+}
